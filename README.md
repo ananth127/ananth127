@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananth S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananth127&label=Profile%20views&color=dc143c&style=flat" alt="ananth127" /> </p>
