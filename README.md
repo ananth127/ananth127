@@ -36,6 +36,6 @@
 
 ## 🌐 Contact Me On
 
-- **Website:** [Ananth](https://ananth.netlify.app/)
+- **Website:** [Ananth](https://ananths.netlify.app/)
 - **LinkedIn:** [Ananth](https://www.linkedin.com/in/ananth-s-95813623a/)
 - **Email:** <a href="mailto:ananths12704@gmail.com">ananths12704@gmail.com</a>
